@@ -1,1 +1,2 @@
-# CW-c20-2.0
+# collisionAlgorithm
+Algorithm to detect collision between two objects
